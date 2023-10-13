@@ -4,7 +4,7 @@ public class Car
 	private String make;
 	private double speed;
 	
-	public Car(int year, String make, double speed)
+	public Car(int year, String make, double speed)//declare the parameters for the car class
 	{
 		this.year = year;
 		this.make = make;
